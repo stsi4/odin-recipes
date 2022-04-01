@@ -1,0 +1,21 @@
+* {
+    font-family: monospace, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.title {
+    color: rebeccapurple;
+    text-align: center;
+}
+
+.ingredients {
+    color: red;
+}
+
+.steps {
+    color: green;
+}
